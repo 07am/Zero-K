@@ -70,7 +70,7 @@ return { jumpassault = {
   weaponDefs          = {
 
     Spike = {
-      name                    = [[Spike]],
+      name                    = [[Leverer]],
       areaOfEffect            = 8,
       beamTime                = 4/30,
       canattackground         = true,
